@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34302.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonValidator.FluentAssertions", "JsonValidator.FluentAssertions\JsonValidator.FluentAssertions.csproj", "{FBCA0934-A4F8-4416-8C07-E0F30C86C199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonValidator.FluentAssertions.Tests", "JsonValidator.FluentAssertions.Tests\JsonValidator.FluentAssertions.Tests.csproj", "{5FF0F02C-D7AC-4B73-99D2-554D18DC72AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBCA0934-A4F8-4416-8C07-E0F30C86C199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCA0934-A4F8-4416-8C07-E0F30C86C199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBCA0934-A4F8-4416-8C07-E0F30C86C199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBCA0934-A4F8-4416-8C07-E0F30C86C199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FF0F02C-D7AC-4B73-99D2-554D18DC72AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF0F02C-D7AC-4B73-99D2-554D18DC72AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF0F02C-D7AC-4B73-99D2-554D18DC72AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF0F02C-D7AC-4B73-99D2-554D18DC72AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FC3ABCA-EF1E-406F-AF67-D733E174BE60}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

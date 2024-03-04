@@ -1,8 +1,8 @@
 # `{✓}` JSON Validator for Fluent Assertions
 This project provides a simple way to validate JSON objects in dotnet. The main use for the tool is in integration tests where you would — ideally — validate an API JSON response manually instead of using the model classes.
 
-[![Build Status](https://github.com/JsonValidatorProject/JsonValidator.FluentAssertions/workflows/build-and-test/badge.svg "Build Status")](https://github.com/JsonValidatorProject/JsonValidator/actions?query=workflow%3A%22build-and-test%22)
-[![Coverage](https://codecov.io/gh/JsonValidatorProject/JsonValidator.FluentAssertions/branch/main/graph/badge.svg)](https://codecov.io/gh/JsonValidatorProject/JsonValidator)
+[![Build Status](https://github.com/JsonValidatorProject/JsonValidator.FluentAssertions/workflows/build-and-test/badge.svg "Build Status")](https://github.com/JsonValidatorProject/JsonValidator.FluentAssertions/actions?query=workflow%3A%22build-and-test%22)
+[![Coverage](https://codecov.io/gh/JsonValidatorProject/JsonValidator.FluentAssertions/branch/main/graph/badge.svg)](https://codecov.io/gh/JsonValidatorProject/JsonValidator.FluentAssertions)
 [![Nuget: JsonValidator.FluentAssertions](https://img.shields.io/nuget/v/JsonValidator.FluentAssertions?label=JsonValidator.FluentAssertions&logo=nuget)](https://www.nuget.org/packages/JsonValidator.FluentAssertions)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blueviolet)](https://opensource.org/licenses/MIT)
 [![pull requests: welcome](https://img.shields.io/badge/pull%20requests-welcome-brightgreen)](https://github.com/JsonValidatorProject/JsonValidator/fork)

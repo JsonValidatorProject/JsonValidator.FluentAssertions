@@ -1,4 +1,7 @@
 # `{✓}` JSON Validator for Fluent Assertions
+> [!warning]
+> Due to licencing changes, the FluentAssertions library won't be updated above v7.1 (the last truely free version). We recommend using [Shouldly](https://github.com/shouldly/shouldly) and our [Shouldly extension](https://github.com/JsonValidatorProject/JsonValidator.Shouldly) instead.
+
 This project provides a simple way to validate JSON objects in dotnet. The main use for the tool is in integration tests where you would — ideally — validate an API JSON response manually instead of using the model classes.
 
 [![Build Status](https://github.com/JsonValidatorProject/JsonValidator.FluentAssertions/workflows/build-and-test/badge.svg "Build Status")](https://github.com/JsonValidatorProject/JsonValidator.FluentAssertions/actions?query=workflow%3A%22build-and-test%22)

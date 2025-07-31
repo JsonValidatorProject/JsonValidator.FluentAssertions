@@ -30,8 +30,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="FluentAssertions" Version="[7.1.0,8.0.0)" />
-    <PackageReference Include="JsonValidator" Version="1.1.4" />
+    <PackageReference Include="FluentAssertions" Version="[7.0.0,8.0.0)" />
+    <PackageReference Include="JsonValidator" Version="1.1.5" />
   </ItemGroup>
 
   <!-- Included for NuGet -->
